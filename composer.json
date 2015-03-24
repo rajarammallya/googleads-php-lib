@@ -1,5 +1,5 @@
 {
-    "name": "googleads/googleads-php-lib",
+    "name": "googleads/googleads-php-lib-custom",
     "description": "Google Ads APIs Client Library for PHP (AdWords, Adx, and DFP)",
     "require": {
         "php": ">=5.2.0"
@@ -11,7 +11,7 @@
     "autoload": {
       "classmap": [
         "src/Google/Api/Ads/AdWords/Lib",
-        "src/Google/Api/Ads/Dfp/Lib"
+        "src/Google/Api/Ads/Dfp/Lib",
         "src/Google/Api/Ads/Dfp/Util"
       ]
     },
