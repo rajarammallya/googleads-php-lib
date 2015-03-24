@@ -12,6 +12,7 @@
       "classmap": [
         "src/Google/Api/Ads/AdWords/Lib",
         "src/Google/Api/Ads/Dfp/Lib"
+        "src/Google/Api/Ads/Dfp/Util"
       ]
     },
     "authors": [
